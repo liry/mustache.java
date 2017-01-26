@@ -144,7 +144,7 @@ And would result in:
 	  Feature: Ugly.
 
 Evaluation of the template proceeds serially. For instance, if you have blocking code within one of your callbacks
-you the system will pause while executing them:
+the system will pause while executing them:
 
 ```java
 static class Feature {
